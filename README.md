@@ -224,3 +224,7 @@ This project uses only synthetic data and makes no real hiring decisions.
 ## 📄 License
 
 MIT — free to use for learning and portfolio purposes.
+
+## Author
+**Jayesh Rathi** — 3rd Year IT Student, Government College of Engineering, Amravati  
+[LinkedIn](https://www.linkedin.com/in/jayesh-rathi-5ab8973b6) | [Email](mailto:jayeshrathinew@gmail.com)
