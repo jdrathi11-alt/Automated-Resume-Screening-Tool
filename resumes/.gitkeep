@@ -1,0 +1,2 @@
+Sample resumes live here. Run `python scripts/generate_sample_data.py`
+to (re)create the synthetic PDF/DOCX resumes used by the demo.

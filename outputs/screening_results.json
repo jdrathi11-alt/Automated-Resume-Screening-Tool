@@ -1,0 +1,216 @@
+[
+  {
+    "matched_skills": [
+      "python",
+      "pandas",
+      "numpy",
+      "sql",
+      "git",
+      "github",
+      "data cleaning",
+      "eda",
+      "communication",
+      "scikit-learn",
+      "streamlit",
+      "machine learning",
+      "nlp",
+      "linux",
+      "docker"
+    ],
+    "missed_skills": [],
+    "keyword_score": 100.0,
+    "similarity": 53.84,
+    "score": 81.54,
+    "decision": "SHORTLIST",
+    "resume_name": "resume_07_Arjun_Rao.pdf",
+    "rank": 1
+  },
+  {
+    "matched_skills": [
+      "python",
+      "pandas",
+      "numpy",
+      "sql",
+      "git",
+      "github",
+      "data cleaning",
+      "eda",
+      "communication",
+      "scikit-learn",
+      "streamlit",
+      "machine learning",
+      "linux",
+      "docker"
+    ],
+    "missed_skills": [
+      "nlp"
+    ],
+    "keyword_score": 95.83,
+    "similarity": 53.64,
+    "score": 78.96,
+    "decision": "SHORTLIST",
+    "resume_name": "resume_01_Aarav_Menon.pdf",
+    "rank": 2
+  },
+  {
+    "matched_skills": [
+      "python",
+      "pandas",
+      "numpy",
+      "sql",
+      "git",
+      "github",
+      "data cleaning",
+      "eda",
+      "communication",
+      "scikit-learn",
+      "streamlit",
+      "machine learning",
+      "nlp",
+      "linux",
+      "docker"
+    ],
+    "missed_skills": [],
+    "keyword_score": 100.0,
+    "similarity": 46.01,
+    "score": 78.4,
+    "decision": "SHORTLIST",
+    "resume_name": "resume_02_Siya_Kulkarni.pdf",
+    "rank": 3
+  },
+  {
+    "matched_skills": [
+      "python",
+      "pandas",
+      "sql",
+      "git",
+      "github",
+      "data cleaning",
+      "eda",
+      "communication"
+    ],
+    "missed_skills": [
+      "numpy",
+      "scikit-learn",
+      "streamlit",
+      "machine learning",
+      "nlp",
+      "linux",
+      "docker"
+    ],
+    "keyword_score": 66.67,
+    "similarity": 36.58,
+    "score": 54.63,
+    "decision": "REJECT",
+    "resume_name": "resume_04_Ananya_Iyer.docx",
+    "rank": 4
+  },
+  {
+    "matched_skills": [
+      "python",
+      "pandas",
+      "sql",
+      "git",
+      "github",
+      "data cleaning",
+      "communication",
+      "linux"
+    ],
+    "missed_skills": [
+      "numpy",
+      "eda",
+      "scikit-learn",
+      "streamlit",
+      "machine learning",
+      "nlp",
+      "docker"
+    ],
+    "keyword_score": 62.5,
+    "similarity": 33.38,
+    "score": 50.85,
+    "decision": "REJECT",
+    "resume_name": "resume_03_Rohan_Desai.pdf",
+    "rank": 5
+  },
+  {
+    "matched_skills": [
+      "python",
+      "pandas",
+      "sql",
+      "git",
+      "data cleaning",
+      "eda",
+      "communication"
+    ],
+    "missed_skills": [
+      "numpy",
+      "github",
+      "scikit-learn",
+      "streamlit",
+      "machine learning",
+      "nlp",
+      "linux",
+      "docker"
+    ],
+    "keyword_score": 58.33,
+    "similarity": 32.87,
+    "score": 48.15,
+    "decision": "REJECT",
+    "resume_name": "resume_08_Diya_Patel.pdf",
+    "rank": 6
+  },
+  {
+    "matched_skills": [
+      "communication"
+    ],
+    "missed_skills": [
+      "python",
+      "pandas",
+      "numpy",
+      "sql",
+      "git",
+      "github",
+      "data cleaning",
+      "eda",
+      "scikit-learn",
+      "streamlit",
+      "machine learning",
+      "nlp",
+      "linux",
+      "docker"
+    ],
+    "keyword_score": 8.33,
+    "similarity": 10.62,
+    "score": 9.25,
+    "decision": "REJECT",
+    "resume_name": "resume_06_Meera_Nair.pdf",
+    "rank": 7
+  },
+  {
+    "matched_skills": [
+      "communication"
+    ],
+    "missed_skills": [
+      "python",
+      "pandas",
+      "numpy",
+      "sql",
+      "git",
+      "github",
+      "data cleaning",
+      "eda",
+      "scikit-learn",
+      "streamlit",
+      "machine learning",
+      "nlp",
+      "linux",
+      "docker"
+    ],
+    "keyword_score": 8.33,
+    "similarity": 8.05,
+    "score": 8.22,
+    "decision": "REJECT",
+    "resume_name": "resume_05_Kabir_Sharma.pdf",
+    "rank": 8
+  }
+]

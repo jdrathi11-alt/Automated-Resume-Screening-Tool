@@ -1,0 +1,33 @@
+Job Title: Junior Python Developer (Data & Automation Team)
+Location: Hyderabad / Remote
+Experience: 0-2 years
+
+About the role
+We are looking for a Junior Python Developer to join our Data &
+Automation team. You will build internal tools, clean datasets, and
+automate repetitive reports.
+
+Responsibilities
+- Write clean, testable Python code for data pipelines.
+- Build and query SQL databases to serve analytics dashboards.
+- Automate Excel/manual reporting using Python scripts.
+- Work with pandas and NumPy to clean and analyse data.
+- Build simple machine learning prototypes with scikit-learn.
+- Use Git/GitHub for version control and code reviews.
+- Communicate findings to non-technical stakeholders.
+
+Required skills (must-have)
+- Python programming
+- pandas
+- NumPy
+- SQL
+- Git / GitHub
+- Data cleaning & EDA
+- Problem solving & communication
+
+Nice to have
+- Machine learning basics (scikit-learn)
+- Streamlit or Flask dashboards
+- NLP / text processing
+- Docker basics
+- Linux command line

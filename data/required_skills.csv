@@ -1,0 +1,16 @@
+skill,category,weight
+"Python","Programming",1.0
+"pandas","Libraries",1.0
+"NumPy","Libraries",1.0
+"SQL","Databases",1.0
+"Git","Tools",1.0
+"GitHub","Tools",1.0
+"data cleaning","Data Skills",1.0
+"EDA","Data Skills",1.0
+"communication","Soft Skills",1.0
+"scikit-learn","ML",0.5
+"Streamlit","Frameworks",0.5
+"machine learning","ML",0.5
+"NLP","ML",0.5
+"Linux","Tools",0.5
+"Docker","Tools",0.5

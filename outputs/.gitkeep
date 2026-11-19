@@ -1,0 +1,3 @@
+This folder stores generated reports (CSV, JSON, Markdown, chart PNG).
+It is kept in the repo so the directory exists; the files themselves are
+regenerated whenever you run `python main.py`.

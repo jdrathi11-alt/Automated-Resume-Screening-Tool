@@ -1,0 +1,9 @@
+rank,resume,score,keyword_score,similarity,decision,matched_skills,missed_skills
+1,resume_07_Arjun_Rao.pdf,81.54,100.0,53.84,SHORTLIST,python; pandas; numpy; sql; git; github; data cleaning; eda; communication; scikit-learn; streamlit; machine learning; nlp; linux; docker,
+2,resume_01_Aarav_Menon.pdf,78.96,95.83,53.64,SHORTLIST,python; pandas; numpy; sql; git; github; data cleaning; eda; communication; scikit-learn; streamlit; machine learning; linux; docker,nlp
+3,resume_02_Siya_Kulkarni.pdf,78.4,100.0,46.01,SHORTLIST,python; pandas; numpy; sql; git; github; data cleaning; eda; communication; scikit-learn; streamlit; machine learning; nlp; linux; docker,
+4,resume_04_Ananya_Iyer.docx,54.63,66.67,36.58,REJECT,python; pandas; sql; git; github; data cleaning; eda; communication,numpy; scikit-learn; streamlit; machine learning; nlp; linux; docker
+5,resume_03_Rohan_Desai.pdf,50.85,62.5,33.38,REJECT,python; pandas; sql; git; github; data cleaning; communication; linux,numpy; eda; scikit-learn; streamlit; machine learning; nlp; docker
+6,resume_08_Diya_Patel.pdf,48.15,58.33,32.87,REJECT,python; pandas; sql; git; data cleaning; eda; communication,numpy; github; scikit-learn; streamlit; machine learning; nlp; linux; docker
+7,resume_06_Meera_Nair.pdf,9.25,8.33,10.62,REJECT,communication,python; pandas; numpy; sql; git; github; data cleaning; eda; scikit-learn; streamlit; machine learning; nlp; linux; docker
+8,resume_05_Kabir_Sharma.pdf,8.22,8.33,8.05,REJECT,communication,python; pandas; numpy; sql; git; github; data cleaning; eda; scikit-learn; streamlit; machine learning; nlp; linux; docker
